@@ -4,7 +4,7 @@ Here's a template for a README file for your fraud detection project. This will 
 
 # Credit Card Fraud Detection
 
-This project implements a machine learning model for detecting fraudulent transactions in a credit card dataset. The model is designed to accurately classify transactions as "Normal" or "Fraud" while managing the inherent class imbalance in the dataset.
+This project implements a machine-learning model for detecting fraudulent transactions in a credit card dataset. The model is designed to accurately classify transactions as "Normal" or "Fraud" while managing the inherent class imbalance in the dataset.
 
 ## Table of Contents
 
